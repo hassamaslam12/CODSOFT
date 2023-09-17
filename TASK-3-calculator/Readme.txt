@@ -1,0 +1,1 @@
+This is a calculator design inspired by Apple calculator. I have handled alot of bugs in the functionality. And also I have made it responsive for all the devices and used bootstrap for it.
